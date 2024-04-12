@@ -1,1 +1,2 @@
 week1 thuộc hàm week1
+sua file week1 tren main
